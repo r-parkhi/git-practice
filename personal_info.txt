@@ -1,2 +1,3 @@
 Name: Radhika
 Favorite Subject: Computer Science
+Learning Git is fun!
